@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 27 19:07:46 2023
 
-@author: Praveen S
-"""
 import numpy as np
 import pandas as pd
 from itertools import combinations
